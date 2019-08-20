@@ -1,0 +1,32 @@
+[
+        {
+          "id": 1,
+          "gamename": "Lotto 6/42",
+          "jackpot": "5,500,000",
+          "drawdate": "08/21/2019"
+        },
+        {
+          "id": 2,
+          "gamename": "Mega Lotto 6/45",
+          "jackpot": "60,500,000",
+          "drawdate": "08/21/2019"
+        },
+        {
+          "id": 3,
+          "gamename": "Super Lotto 6/49",
+          "jackpot": "7,000,000",
+          "drawdate": "08/21/2019"
+        },
+        {
+          "id": 4,
+          "gamename": "Grand Lotto 6/55",
+          "jackpot": "5,500,000",
+          "drawdate": "08/21/2019"
+        },
+        {
+          "id": 5,
+          "gamename": "Lotto 6/58",
+          "jackpot": "100,000,000",
+          "drawdate": "08/21/2019"
+        },
+    ]
