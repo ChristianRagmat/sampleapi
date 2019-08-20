@@ -1,4 +1,5 @@
- "gamelist": [
+{ 
+   "gamelist": [
         {
           "id": 1,
           "gamename": "Lotto 6/42",
@@ -30,3 +31,4 @@
           "drawdate": "08/21/2019"
         }
     ]
+}
